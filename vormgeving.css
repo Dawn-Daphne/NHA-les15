@@ -1,0 +1,94 @@
+header {
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 100%;
+    background-color: #718874;
+    text-align: center;
+    padding: 30px;
+}
+
+body {
+    margin-top: 125px;
+    text-align: center;
+}
+
+a {
+    color:white;
+    text-align: center;
+    font-size: x-large;
+}
+
+h1 {
+    color:#070e08;
+    font-size: xx-large;
+    font-weight: 500;
+}
+
+h5 {
+    color:white;
+    font-size: medium;
+}
+
+p {
+    color:#070e08;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 100px;
+    padding-top: 0px;
+}
+
+table {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+td.main {
+    color:#070e08;
+    font-size: x-large;
+    padding-bottom: 50px;
+}
+
+td {
+    color:#070e08;
+    width: 400px;
+}
+
+footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #070e08;
+    text-align: center;
+    padding: 5px;
+}
+
+form {
+    display: inline-block; 
+}
+
+input, textarea, label, select {
+    text-align: center;
+    display: block;
+    margin: 15px 0px; 
+    width: 400px; 
+}
+
+input {
+    color: #070e08;
+}
+
+textarea {
+    height: 100px;
+}
+
+button {
+    text-align: center;
+    width: 400px; 
+    border-radius: 10px;
+    background-color: #4d564f;
+    height: 30px; 
+    color: white;
+}
